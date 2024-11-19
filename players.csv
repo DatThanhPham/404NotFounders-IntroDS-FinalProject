@@ -1,4 +1,4 @@
-name,age,nationality,club,position,height,weight,foot,total_matches,total_goals,total_minutes,total_assists,total_yellow,total_red,minutes_per_goal_conceded,shot_accuracy,pass_completion_rate,cross_completion_rate,minutes_per_assist,dribble_success_rate,tackles,interception,market_value,titles,injuries
+name,age,nationality,club,position,height,weight,foot,total_matches,total_goals,total_minutes,total_assists,total_yellow,total_red,minutes_per_goal,shot_accuracy,pass_completion_rate,cross_completion_rate,minutes_per_assist,dribble_success_rate,tackles,interception,market_value,titles,injuries
 Ardian Ismajli,28,Albania,Empoli,Defender - Centre Back,185,76,Right,227,5,18203,,55,2,110,0.0,82.93,0.0,,0.0,8,16,5.0,0,3
 Berat Djimsiti,31,Albania,Atalanta,Defender - Centre Back,190,83,Right,472,15,38954,,79,1,69,0.0,88.32,0.0,,100.0,21,16,10.0,2,3
 Elseid Hysaj,30,Albania,Lazio,Defender - Right Back,182,75,Right,487,6,37784,,72,7,0,0.0,86.67,0.0,,0.0,1,0,2.5,1,2
