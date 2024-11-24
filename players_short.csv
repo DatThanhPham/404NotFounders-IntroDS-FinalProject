@@ -1,0 +1,160 @@
+name,age,nationality,club,position,height,weight,foot,total_matches,total_goals,total_minutes,total_assists,total_goals_conceded,total_cs,total_yellow,total_red,minutes_per_goal,shot_accuracy,pass_completion_rate,cross_completion_rate,minutes_per_assist,dribble_success_rate,tackles,interception,market_value,titles,injuries
+Ardian Ismajli,28,Albania,Empoli,Defender - Centre Back,185,76,Right,230,5,18473,,250,70,55,2,108,0.0,83.88,0.0,,0.0,9,21,5.0,0,3
+Berat Djimsiti,31,Albania,Atalanta,Defender - Centre Back,190,83,Right,474,15,39068,,531,133,79,1,71,0.0,88.0,0.0,,100.0,26,19,10.0,2,4
+Elseid Hysaj,30,Albania,Lazio,Defender - Right Back,182,75,Right,487,6,37784,,416,177,72,7,0,0.0,86.67,0.0,,0.0,1,0,2.5,1,2
+Ivan Balliu,32,Albania,Rayo Vallecano,Defender - Right Back,172,63,Right,423,3,35067,,473,120,91,2,118,0.0,76.73,0.0,,66.67,10,6,2.0,2,19
+Kristjan Asllani,22,Albania,Inter Milan,Midfielder - Attacking Midfield,175,63,,111,6,5103,6,,,9,0,0,50.0,90.57,50.0,232,0.0,4,0,18.0,6,1
+Marash Kumbulla,24,Albania,RCD Espanyol,Defender - Centre Back,191,78,Right,133,6,9039,,121,42,32,2,46,50.0,86.0,66.67,,33.33,12,11,4.5,1,3
+Ylber Ramadani,28,Albania,Lecce,Midfielder - Defensive Midfield,185,,,304,11,24038,8,,,61,0,0,57.14,84.62,0.0,992,56.25,27,9,4.0,2,7
+Abderrahman Rebbach,26,Algeria,Deportivo Alavés,Forward,176,,Right,155,34,9755,4,,,32,1,0,33.33,68.42,17.65,,25.0,2,0,0.8,0,0
+Aissa Mandi,33,Algeria,Lille,Defender - Centre Back,184,78,Right,432,28,36514,,505,123,76,7,88,100.0,93.42,66.67,,50.0,10,3,1.8,1,21
+Farid El Melali,27,Algeria,Angers SCO,Forward - Left Wing,168,65,,158,19,8077,8,,,11,0,708,40.0,83.03,24.0,708,62.22,10,3,1.5,1,12
+Haris Belkebla,30,Algeria,Angers SCO,Midfielder - Central Midfield,177,68,,324,9,25856,2,,,57,3,0,0.0,86.96,0.0,,20.0,12,6,1.5,0,6
+Hicham Boudaoui,25,Algeria,Nice,Midfielder - Central Midfield,175,61,,170,12,10515,9,,,42,2,630,62.5,84.41,25.0,630,38.1,29,6,10.0,1,20
+Ismael Bennacer,26,Algeria,AC Milan,Midfielder - Defensive Midfield,175,70,Left,315,14,22078,25,,,51,0,0,0.0,97.67,25.0,,100.0,1,0,18.0,3,5
+Mohamed Amoura,24,Algeria,Wolfsburg,Midfielder,170,,,156,44,8728,21,,,24,0,364,47.06,70.75,30.0,146,34.78,5,2,16.0,0,5
+Ramy Bensebaini,29,Algeria,Borussia Dortmund,Defender - Left Back,187,75,Left,302,35,23013,,326,85,87,5,75,40.0,85.96,40.0,174,0.0,9,6,7.0,2,44
+Said Benrahma,29,Algeria,Olympique Lyonnais,Forward - Left Wing,172,67,Right,412,93,25430,60,,,24,3,522,42.86,80.21,27.59,261,33.33,6,1,15.0,1,8
+Zinedine Ferhat,31,Algeria,Angers SCO,Midfielder - Right Midfield,183,77,Right,321,32,24697,58,,,35,4,203,75.0,72.73,26.32,,100.0,1,2,1.5,5,6
+Clinton Mata,32,Angola,Olympique Lyonnais,Midfielder - Right Back,180,72,,359,9,28152,25,,,69,2,0,0.0,83.28,20.0,364,46.15,16,16,4.0,5,9
+Esmevanio Kialonda Gaspar,27,Angola,Lecce,Defender,,,,54,2,4674,,65,10,16,0,57,,,,1080,,,,2.5,,0
+Mbala NZola,28,Angola,Lens,Forward - Centre Forward,185,82,Right,281,75,18444,14,,,52,4,259,36.36,75.0,0.0,,33.33,2,2,7.0,0,3
+Zito Luvumbo,22,Angola,Cagliari,Forward - Right Wing,171,65,Left,137,21,7658,9,,,17,0,740,25.0,75.0,7.41,740,52.38,2,0,7.5,0,3
+Alejandro Garnacho,20,Argentina,Manchester United,Forward - Left Wing,180,80,Right,155,42,8960,19,,,15,1,238,54.17,81.0,22.22,713,21.43,11,5,50.0,0,3
+Alejo Veliz,21,Argentina,RCD Espanyol,Forward,187,77,,100,28,5835,0,,,13,0,715,30.77,72.16,0.0,,25.0,1,1,9.0,0,1
+Alexis Mac Allister,25,Argentina,Liverpool,Midfielder - Central Midfield,176,72,Right,290,46,19788,31,,,48,2,0,80.0,86.96,50.0,,16.67,26,5,75.0,3,16
+Angel Correa,29,Argentina,Atlético Madrid,Forward - Right Wing,171,68,Right,458,86,22827,59,,,66,4,186,55.56,77.88,20.0,,58.82,2,2,18.0,9,15
+Augusto Martin Batalla Barga,28,Argentina,Rayo Vallecano,Goalkeeper - Goalkeeper,181,87,,240,0,21392,,220,94,26,1,90,0.0,59.48,0.0,,100.0,0,0,5.0,8,1
+Benjamin Dominguez,21,Argentina,Bologna,Forward,175,68,,33,2,2188,0,,,1,0,0,,,,,,,,5.5,,0
+Carlos Jonas Alcaraz,21,Argentina,Southampton,Defender - Central Midfield,176,68,Right,154,19,7942,,103,52,34,2,0,100.0,100.0,100.0,,0.0,0,1,15.0,0,2
+Chimy Avila,30,Argentina,Real Betis,Forward - Centre Forward,172,81,Left,245,52,12822,17,,,62,7,206,58.33,76.03,37.5,,42.86,5,1,3.0,1,31
+Cristian Romero,26,Argentina,Tottenham Hotspur,Defender - Centre Back,185,79,Right,255,14,21639,,281,70,92,7,74,44.44,90.36,33.33,,50.0,24,9,65.0,3,25
+Emi Buendia,27,Argentina,Aston Villa,Midfielder - Right Wing,172,72,Right,329,55,21696,64,,,52,5,0,0.0,90.48,0.0,,0.0,2,0,20.0,3,15
+Enzo Fernandez,23,Argentina,Chelsea,Midfielder - Defensive Midfield,178,78,Right,206,26,15559,32,,,40,1,700,50.0,83.24,29.41,350,42.86,19,2,75.0,7,5
+Facundo Buonanotte,19,Argentina,Leicester City,Midfielder - Attacking Midfield,174,66,,100,12,5551,5,,,23,0,244,43.75,80.23,50.0,367,42.86,22,5,18.0,0,3
+Facundo Medina,25,Argentina,Lens,Defender - Centre Back,184,78,,198,10,16684,,192,67,68,1,108,28.57,88.26,40.0,,16.67,20,10,25.0,2,27
+Franco Carboni,21,Argentina,Venezia,Defender - Left Back,178,73,,71,2,4583,,43,23,15,0,0,0.0,100.0,25.0,,100.0,0,0,0.9,1,0
+Geronimo Rulli,32,Argentina,Olympique Marseille,Goalkeeper - Goalkeeper,189,84,Right,331,0,29545,,365,107,34,3,77,0.0,80.0,0.0,,0.0,0,0,5.0,5,9
+Giovani Lo Celso,28,Argentina,Real Betis,Midfielder - Central Midfield,177,68,Left,352,43,19876,42,,,64,4,105,58.82,85.76,23.68,527,52.63,11,1,20.0,9,20
+Giovanni Simeone,29,Argentina,Napoli,Forward - Centre Forward,180,81,,350,97,21017,22,,,32,1,204,20.0,76.6,0.0,,0.0,0,1,10.0,5,2
+Giuliano Simeone,21,Argentina,Atlético Madrid,Forward,,,Right,71,12,4408,7,,,8,1,333,,,,167,,,,3.0,,0
+Gonzalo Montiel,27,Argentina,Sevilla FC,Defender - Right Back,175,69,Right,253,8,17948,,163,99,60,2,5,0.0,75.0,0.0,,0.0,0,0,8.0,12,15
+Guido Rodriguez,30,Argentina,West Ham United,Midfielder - Defensive Midfield,185,78,Right,391,28,31712,7,,,113,9,0,20.0,83.77,0.0,,100.0,25,10,20.0,12,14
+Joaquin Correa,30,Argentina,Inter Milan,Midfielder - Secondary Striker,189,75,,333,61,17494,29,,,43,4,129,100.0,76.92,0.0,65,0.0,1,0,3.0,5,6
+Jose Luis Palomino,34,Argentina,Cagliari,Defender - Centre Back,190,78,Left,329,15,24618,,334,91,57,3,47,100.0,85.0,0.0,,0.0,5,6,0.7,1,5
+Juan Musso,30,Argentina,Atlético Madrid,Goalkeeper - Goalkeeper,191,93,Right,242,0,21566,,285,70,15,1,0,0.0,78.26,0.0,,0.0,0,0,5.0,2,1
+Julian Alvarez,24,Argentina,Atlético Madrid,Forward - Centre Forward,170,68,Right,278,105,17135,49,,,13,0,199,52.94,78.54,37.5,794,43.75,3,0,75.0,9,0
+Julian Antonio Chicco,26,Argentina,Leganés,Midfielder - Defensive Midfield,181,79,Right,127,4,7160,1,,,30,1,0,0.0,82.0,0.0,,100.0,6,2,1.0,3,3
+Lautaro Gianetti,31,Argentina,Udinese,Defender - Center Back,184,79,Right,212,5,18336,,179,83,55,4,60,100.0,81.16,0.0,,0.0,13,9,2.5,2,4
+Lautaro Martinez,27,Argentina,Inter Milan,Forward - Centre Forward,179,72,Right,399,182,26820,41,,,69,2,180,46.15,73.94,0.0,451,33.33,7,3,110.0,6,5
+Leandro Paredes,30,Argentina,Roma,Midfielder - Defensive Midfield,180,80,Right,390,25,25238,33,,,118,5,0,0.0,88.39,33.33,122,0.0,2,2,8.0,13,21
+Leonardo Balerdi,25,Argentina,Olympique Marseille,Defender - Centre Back,187,85,,168,6,12462,,152,51,49,6,60,0.0,94.08,0.0,,85.71,12,8,20.0,2,24
+Lisandro Martinez,26,Argentina,Manchester United,Defender - Centre Back,175,77,Left,266,11,21113,,197,110,51,1,89,60.0,89.53,0.0,,75.0,22,22,50.0,7,17
+Lucas Beltran,23,Argentina,Fiorentina,Forward,176,75,,107,26,5507,9,,,11,0,236,,,,236,,,,16.0,,0
+Lucas Martinez Quarta,28,Argentina,Fiorentina,Midfielder - Centre Back,181,75,,248,20,19678,9,,,71,4,325,33.33,88.62,0.0,,100.0,10,1,13.0,11,4
+Lucas Ocampos,30,Argentina,Monterrey,Forward - Left Wing,187,84,,478,86,30405,41,,,90,5,737,23.53,77.56,15.0,184,53.85,9,3,7.5,3,22
+Luka Romero,20,Argentina,Deportivo Alavés,Midfielder - Right Wing,165,64,Left,65,7,2116,1,,,7,1,0,0.0,77.78,20.0,,50.0,4,1,5.0,0,0
+Marcos Senesi,27,Argentina,AFC Bournemouth,Defender - Centre Back,185,80,Left,268,15,21942,,290,80,59,1,65,0.0,77.34,50.0,,71.43,28,10,22.0,1,10
+Mateo Retegui,25,Argentina,Atalanta,Forward - Centre Forward,186,81,,214,68,13066,15,,,27,1,70,47.06,79.29,20.0,278,22.22,5,1,28.0,1,3
+Nahuel Estevez,29,Argentina,Parma,Midfielder - Central Midfield,181,77,Right,256,15,18326,15,,,50,2,0,50.0,75.76,0.0,,0.0,3,2,3.5,0,1
+Nahuel Molina,26,Argentina,Atlético Madrid,Defender - Right Back,175,70,Right,265,20,20021,,218,84,27,3,177,33.33,79.62,17.24,708,58.33,18,7,28.0,5,10
+Nahuel Tenaglia,28,Argentina,Deportivo Alavés,Defender - Right Back,180,73,Right,218,14,17371,,197,82,51,1,55,40.0,63.56,12.0,1036,66.67,25,11,2.5,0,6
+Nehuen Perez,24,Argentina,Porto,Defender - Centre Back,185,75,Right,176,8,14401,,187,49,52,3,180,0.0,81.67,0.0,,100.0,1,1,13.0,1,4
+Nico Paz,20,Argentina,Como,Midfielder,,,,54,15,3442,8,,,7,0,799,39.13,85.55,28.57,266,52.38,13,10,15.0,0,0
+Nicolas Dominguez,26,Argentina,Nottingham Forest,Midfielder - Central Midfield,179,73,Right,239,17,15787,14,,,56,1,0,42.86,85.21,100.0,,0.0,21,9,17.0,1,5
+Nicolas Gonzalez,26,Argentina,Juventus,Midfielder - Left Wing,180,72,Left,279,76,18468,29,,,42,2,0,0.0,79.45,0.0,,22.22,3,0,35.0,4,9
+Nicolas Tagliafico,32,Argentina,Olympique Lyonnais,Defender - Left Back,172,65,Left,415,23,34176,,328,168,97,7,90,100.0,88.12,11.11,,0.0,17,11,8.0,11,24
+Oscar Trejo,36,Argentina,Rayo Vallecano,Midfielder - Attacking Midfield,180,79,Right,544,67,37408,40,,,132,8,0,0.0,83.13,50.0,,50.0,3,1,1.0,4,37
+Paulo Dybala,31,Argentina,Roma,Forward - Secondary Striker,177,75,Left,492,175,32150,77,,,41,1,266,53.85,87.88,41.67,,42.86,7,1,12.0,15,9
+Paulo Gazzaniga,32,Argentina,Girona FC,Goalkeeper - Goalkeeper,196,90,Right,209,0,18542,,245,53,23,0,74,0.0,80.36,0.0,,66.67,1,0,4.0,3,2
+Santiago Pierotti,23,Argentina,Lecce,Forward,189,80,,138,11,5959,4,,,16,1,421,28.57,74.07,100.0,,30.77,13,4,2.5,0,0
+Santiago Thomas Castro,20,Argentina,Bologna,Forward,178,76,,96,14,4305,6,,,15,0,210,54.55,80.28,0.0,419,36.0,7,1,18.0,0,0
+Tadeo Allende,25,Argentina,Celta de Vigo,Forward,185,77,,116,17,6067,5,,,8,0,0,,,,,,,,3.0,0,0
+Tiago Tomas Palacios,21,Argentina,Inter Milan,Defender,195,80,,19,1,1292,,12,11,7,0,0,0.0,100.0,0.0,,0.0,0,1,6.0,0,0
+Tomas Jose Conechny,26,Argentina,Deportivo Alavés,Forward - Striker,170,65,,154,18,8922,6,,,21,1,473,63.64,58.2,46.15,,0.0,3,3,4.5,1,0
+Valentin Carboni,19,Argentina,Olympique Marseille,Midfielder,,,,72,7,3083,3,,,10,0,0,50.0,88.33,100.0,,0.0,2,1,15.0,0,1
+Valentin Castellanos,26,Argentina,Lazio,Forward - Centre Forward,178,70,Right,262,86,17455,26,,,70,2,180,47.37,64.07,12.5,899,56.25,4,2,20.0,1,6
+Henrikh Mkhitaryan,35,Armenia,Inter Milan,Midfielder - Attacking Midfield,177,75,Both,556,114,40796,102,,,65,1,1047,28.57,87.5,11.11,,9.09,16,8,6.0,15,8
+Denzel Dumfries,28,Aruba,Inter Milan,Defender - Right Midfield,188,80,Right,431,44,33149,,371,153,76,3,59,87.5,81.17,26.67,,7.69,5,2,20.0,4,12
+Alessandro Circati,21,Australia,Parma,Defender,190,84,,56,1,4367,,42,20,13,1,72,,,,,,,,8.5,,0
+Cameron Burgess,29,Australia,Ipswich Town,Defender - Centre Back,194,75,Left,342,20,28972,,354,113,53,4,60,25.0,77.27,0.0,,0.0,1,2,1.5,0,2
+Connor Metcalfe,25,Australia,St. Pauli,Forward - Defensive Midfield,178,70,,174,18,11082,24,,,26,0,0,66.67,63.29,50.0,,66.67,0,2,2.5,1,2
+Denis Genreau,25,Australia,Toulouse,Midfielder - Attacking Midfield,175,73,,140,7,7828,14,,,22,0,0,0.0,88.0,16.67,,0.0,0,0,1.0,1,7
+Jackson Irvine,31,Australia,St. Pauli,Midfielder - Central Midfield,189,70,Right,420,48,34667,40,,,85,2,0,11.11,70.16,50.0,300,45.45,22,17,2.0,4,1
+Massimo Luongo,32,Australia,Ipswich Town,Midfielder - Central Midfield,176,66,Right,413,34,32501,28,,,81,2,0,0.0,72.73,0.0,,0.0,5,3,0.5,1,7
+Benedikt Pichler,27,Austria,Holstein Kiel,Midfielder - Left Midfield,184,87,,211,61,14237,13,,,21,2,599,63.64,66.44,0.0,,46.67,3,1,2.0,0,1
+Christoph Baumgartner,25,Austria,RB Leipzig,Midfielder - Attacking Midfield,180,68,,273,58,17273,24,,,46,1,0,71.43,67.83,0.0,,58.33,11,3,18.0,1,15
+Flavius Daniliuc,23,Austria,Hellas Verona,Defender - Centre Back,188,79,,179,4,12715,,189,44,26,0,40,0.0,81.93,25.0,,66.67,13,4,5.0,0,6
+Florian Grillitsch,29,Austria,Hoffenheim,Midfielder - Defensive Midfield,187,74,Right,344,34,25026,22,,,62,2,0,25.0,87.5,40.0,,40.0,16,9,6.5,0,25
+Florian Micheler,,Austria,Hoffenheim II,Midfielder,,,,5,1,237,1,,,0,0,151,,,,,,,,,0,0
+Kevin Danso,26,Austria,Lens,Defender - Centre Back,190,89,Right,257,17,20983,,277,82,63,6,105,50.0,86.76,0.0,,50.0,6,6,25.0,0,16
+Konrad Laimer,27,Austria,Bayern München,Midfielder - Central Midfield,180,72,Right,374,25,25104,34,,,80,3,0,25.0,88.44,0.0,,0.0,5,0,30.0,7,18
+Leopold Querfeld,20,Austria,Union Berlin,Midfielder,,,,131,8,10384,0,,,34,2,0,0.0,75.0,0.0,,50.0,2,3,5.0,0,0
+Marcel Sabitzer,30,Austria,Borussia Dortmund,Midfielder - Central Midfield,178,77,Right,496,102,35380,68,,,77,2,0,60.0,85.26,0.0,,33.33,10,2,20.0,6,22
+Marco Grull,26,Austria,Werder Bremen,Midfielder,,,,321,117,25694,38,,,46,1,374,60.0,85.53,12.5,,50.0,3,2,4.0,1,2
+Mathias Honsak,27,Austria,Heidenheim,Forward - Left Wing,188,74,Left,277,45,15041,23,,,14,0,300,33.33,74.16,46.15,300,100.0,4,1,1.2,0,6
+Matthias Braunoder,22,Austria,Como,Midfielder - Central Midfield,173,67,Right,158,7,10845,13,,,29,2,0,0.0,86.61,0.0,,33.33,11,2,2.0,0,2
+Michael Svoboda,26,Austria,Venezia,Defender - Centre Back,195,86,Right,195,10,14370,,226,45,27,2,48,100.0,85.47,100.0,,66.67,22,15,1.5,1,0
+Nikolas Veratschnig,21,Austria,Mainz 05,Forward,,,,104,11,6333,4,,,23,1,0,0.0,100.0,0.0,,0.0,0,0,1.0,0,2
+Paul Wanner,18,Austria,Heidenheim,Midfielder - Attacking Midfield,185,72,,79,16,4890,7,,,10,0,409,40.0,76.79,32.0,818,46.88,18,1,15.0,3,1
+Philipp Lienhart,28,Austria,Freiburg,Defender - Centre Back,189,80,Right,318,19,26151,,359,91,54,1,61,25.0,88.59,0.0,,50.0,8,11,15.0,2,8
+Romano Schmid,24,Austria,Werder Bremen,Midfielder - Attacking Midfield,168,63,Right,270,33,18870,36,,,49,0,974,71.43,79.91,37.5,974,33.33,13,7,13.0,1,6
+Stefan Lainer,32,Austria,Borussia M'gladbach,Defender - Right Back,175,73,Right,363,17,28358,46,,,53,0,66,0.0,79.8,0.0,,60.0,4,3,2.5,8,12
+Stefan Posch,27,Austria,Bologna,Defender - Centre Back,189,82,Right,323,20,25804,,340,90,77,2,61,0.0,78.55,50.0,,27.27,21,4,14.0,0,18
+Valentino Lazaro,28,Austria,Torino,Defender - Right Back,180,75,Right,345,26,21461,38,,,47,1,79,25.0,82.74,19.64,315,33.33,15,2,3.5,10,7
+Adnan Januzaj,29,Belgium,UD Las Palmas,Forward - Right Wing,186,76,Left,319,33,16442,37,,,39,2,0,33.33,80.91,30.77,256,26.67,3,0,2.0,7,26
+Alexis Saelemaekers,25,Belgium,Roma,Midfielder - Right Wing,180,72,,258,17,15215,23,,,47,4,0,100.0,89.69,33.33,,40.0,5,1,12.0,2,8
+Amadou Onana,23,Belgium,Aston Villa,Midfielder - Defensive Midfield,195,76,Both,208,17,13736,3,,,50,2,356,50.0,90.58,100.0,,75.0,23,16,55.0,0,22
+Ameen Al Dakhil,22,Belgium,Stuttgart II,Forward - Center Back,185,,,69,1,5211,0,,,14,2,0,,,,,,,,,,0
+Anass Zaroury,24,Belgium,Lens,Forward - Left Wing,178,73,,144,26,8233,17,,,4,2,0,,,,402,,,,9.0,,0
+Arthur Theate,24,Belgium,Eintracht Frankfurt,Defender - Centre Back,185,81,Left,181,15,15236,,201,45,34,3,79,16.67,83.2,0.0,,100.0,10,12,20.0,0,5
+Arthur Vermeeren,19,Belgium,RB Leipzig,Midfielder,,,,92,4,6977,8,,,10,0,0,0.0,85.66,0.0,,66.67,14,6,25.0,3,0
+Axel Witsel,35,Belgium,Atlético Madrid,Midfielder - Defensive Midfield,186,73,Right,561,48,45615,21,,,84,3,0,0.0,89.32,0.0,618,100.0,7,4,3.5,11,12
+Bilal El Khannous,20,Belgium,Leicester City,Midfielder,180,70,,131,6,8684,18,,,17,1,0,0.0,84.11,33.33,,0.0,3,0,30.0,0,2
+Christian Kabasele,33,Belgium,Udinese,Defender - Centre Back,188,84,Right,259,15,19947,,265,80,37,5,59,27.27,85.67,0.0,,100.0,9,6,1.0,3,16
+Cyril Ngonge,24,Belgium,Napoli,Forward - Right Wing,177,,,163,42,9458,13,,,24,1,0,83.33,88.24,25.0,,55.56,2,0,12.0,1,8
+Dodi Lukebakio,27,Belgium,Sevilla FC,Midfielder - Right Wing,187,77,,277,63,16370,29,,,36,1,205,50.0,80.2,27.03,,47.46,6,1,12.0,0,9
+Eliot Matazo,22,Belgium,Monaco,Midfielder - Central Midfield,170,70,Right,110,3,4858,2,,,14,1,0,0.0,83.33,0.0,,0.0,0,0,5.0,0,6
+Ibrahim Salah,23,Belgium,Brest,Forward,185,,Right,85,16,2935,3,,,7,0,300,33.33,75.56,30.77,300,40.91,2,1,4.0,0,0
+Ignace Van Der Brempt,22,Belgium,Como,Defender,,,,113,5,6442,,98,36,20,1,79,33.33,84.27,0.0,,80.0,13,6,3.0,3,4
+Jeremy Doku,22,Belgium,Manchester City,Forward - Right Wing,173,66,Right,208,29,11602,31,,,14,2,407,50.0,86.29,20.0,407,61.76,9,0,65.0,2,18
+Joel Schingtienne,22,Belgium,Venezia,Defender,188,,Right,65,2,5451,,84,16,8,0,23,0.0,96.55,0.0,,0.0,4,0,2.0,0,1
+Julien Duranville,18,Belgium,Borussia Dortmund,Forward,,,,7,1,155,0,,,0,0,31,100.0,63.64,0.0,,40.0,2,0,,0,6
+Kevin De Bruyne,33,Belgium,Manchester City,Midfielder - Attacking Midfield,181,68,Right,585,154,45275,239,,,59,1,390,27.27,83.95,30.0,390,50.0,2,2,45.0,24,31
+Koni De Winter,22,Belgium,Genoa,Defender - Centre Back,188,,Right,82,3,6399,,75,25,23,2,42,60.0,85.67,50.0,,50.0,12,7,12.0,2,7
+Leandro Trossard,29,Belgium,Arsenal,Forward - Left Wing,172,61,Right,385,97,24515,47,,,17,1,337,50.0,75.44,20.0,,35.71,10,5,35.0,6,15
+Lois Openda,24,Belgium,RB Leipzig,Forward - Centre Forward,177,,,277,111,17900,31,,,32,3,182,58.33,67.65,7.14,303,28.0,3,1,60.0,3,5
+Lucas Frederic Stassin,19,Belgium,Saint-Étienne,Forward,,,,72,26,4651,11,,,10,0,203,,,,135,,,,6.0,,0
+Maarten Vandevoordt,22,Belgium,RB Leipzig,Goalkeeper - Goalkeeper,189,81,Right,178,0,15928,,209,44,4,0,0,0.0,81.82,0.0,,0.0,0,0,8.0,3,0
+Mandela Keita,22,Belgium,Parma,Midfielder,,,,111,1,6976,6,,,17,2,0,0.0,94.85,0.0,,66.67,6,4,13.0,2,7
+Matz Sels,32,Belgium,Nottingham Forest,Goalkeeper - Goalkeeper,188,75,Right,306,0,27496,,372,79,12,0,83,0.0,49.64,0.0,,0.0,1,0,7.0,6,4
+Ngalayel Mukau,20,Belgium,KV Mechelen,Midfielder,,,,4,0,180,0,,,0,0,0,,,,,,,,,0,1
+Romelu Lukaku,31,Belgium,Napoli,Forward - Centre Forward,190,94,,623,306,45908,83,,,51,2,181,66.67,69.85,0.0,181,30.0,1,0,30.0,10,29
+Romeo Lavia,20,Belgium,Chelsea,Midfielder - Defensive Midfield,181,76,,107,3,8260,6,,,26,1,0,0.0,92.82,0.0,350,83.33,12,7,35.0,6,12
+Samuel Germain Kinduelu Mbangula Tshifunda,20,Belgium,Juventus,Forward,,,,15,4,766,3,,,1,0,321,,,,161,,,,,,0
+Sebastiao Sagrado,20,Belgium,Venezia,Defender,,,,22,0,1929,,32,3,2,0,32,100.0,66.67,0.0,,66.67,0,0,,0,7
+Selim Amallah,28,Belgium,Real Valladolid,Midfielder - Attacking Midfield,186,70,,228,46,14291,21,,,62,5,337,42.86,80.86,33.33,673,61.54,12,7,1.5,0,11
+Stanis Idumbo Muzambo,19,Belgium,Sevilla FC,Midfielder,,,,42,9,2236,4,,,1,0,116,100.0,80.0,0.0,,66.67,4,2,0.8,0,1
+Thibaut Courtois,32,Belgium,Real Madrid,Goalkeeper - Goalkeeper,200,96,Left,614,0,54810,,517,258,23,3,135,0.0,81.74,0.0,,0.0,0,1,25.0,22,18
+Thomas Meunier,33,Belgium,Lille,Defender - Right Back,191,82,Right,353,27,26104,,273,150,58,0,119,42.86,80.74,8.33,,100.0,12,11,2.5,14,29
+Timothy Castagne,28,Belgium,Fulham,Defender - Right Back,185,80,Right,343,19,26934,,349,100,30,1,25,100.0,86.36,0.0,,0.0,3,0,17.0,2,10
+Wout Faes,26,Belgium,Leicester City,Defender - Centre Back,187,84,Right,298,10,26075,,373,75,54,4,54,20.0,87.41,0.0,,100.0,17,6,20.0,0,11
+Yorbe Vertessen,23,Belgium,Union Berlin,Forward - Centre Forward,174,71,Right,170,35,6079,17,,,8,0,554,33.33,71.05,38.1,,34.62,6,3,5.0,1,4
+Youri Tielemans,27,Belgium,Aston Villa,Midfielder - Central Midfield,177,72,Both,477,69,36160,64,,,60,0,0,33.33,86.55,28.3,266,60.0,25,11,30.0,6,18
+Cedric Hountondji,30,Benin,Angers SCO,Defender - Centre Back,194,85,Right,298,5,25561,,357,86,39,2,45,0.0,84.47,0.0,,0.0,6,4,1.8,0,9
+Steve Mounie,30,Benin,Augsburg,Forward - Centre Forward,190,83,Right,359,92,24380,19,,,34,3,0,57.14,62.96,0.0,,25.0,2,0,4.5,0,12
+Milan Duric,34,Bosnia and Herzegovina,Monza,Forward - Centre Forward,198,94,Right,476,93,29883,19,,,78,3,276,45.45,50.0,0.0,829,100.0,1,1,1.5,1,1
+Nikola Vasilj,28,Bosnia and Herzegovina,St. Pauli,Goalkeeper - Goalkeeper,193,85,Right,173,0,15204,,195,56,7,1,82,0.0,68.88,0.0,,100.0,0,0,2.0,3,0
+Abner Vinicius,25,Brazil,Olympique Lyonnais,Defender - Left Back,181,,,211,8,15726,,163,76,31,0,72,75.0,81.91,35.0,,50.0,13,6,7.0,5,2
+Alexsandro Ribeiro,25,Brazil,Lille,Defender - Centre Back,189,82,,129,8,10497,,99,49,29,3,162,0.0,90.0,0.0,810,0.0,11,11,8.0,0,8
+Alisson Becker,32,Brazil,Liverpool,Goalkeeper - Goalkeeper,193,91,Right,415,1,37141,,349,183,12,1,265,0.0,81.63,0.0,,0.0,0,0,28.0,13,15
+Andre,23,Brazil,Wolverhampton Wanderers,Midfielder,,,,96,3,7172,2,,,22,1,0,,,,,,,,25.0,,0
+Andreas Pereira,28,Brazil,Fulham,Midfielder - Attacking Midfield,178,71,Right,334,31,20112,34,,,68,2,904,42.86,77.53,34.62,,50.0,6,2,20.0,3,10
+Andrey Santos,20,Brazil,Strasbourg,Midfielder,176,72,,92,23,7365,1,,,23,1,175,58.33,87.42,0.0,,58.33,36,9,18.0,0,2
+Arthur Augusto,21,Brazil,Bayer Leverkusen,Defender - Right Back,174,70,Right,47,0,2752,,23,19,10,0,0,0.0,100.0,0.0,25,0.0,0,1,5.0,0,1
+Brenner,24,Brazil,Udinese,Forward,,,,168,55,10541,13,,,18,1,384,80.0,81.32,30.0,192,75.0,6,1,8.5,0,2
+Bruno Guimaraes,27,Brazil,Newcastle United,Midfielder - Defensive Midfield,182,74,Right,311,29,22159,34,,,65,1,0,40.0,82.63,40.0,982,80.0,26,12,85.0,6,15
+Carlos Augusto,25,Brazil,Inter Milan,Defender - Left Back,184,78,Left,200,14,14866,,143,87,19,2,86,0.0,95.33,0.0,,0.0,3,1,22.0,2,2
+Casemiro,32,Brazil,Manchester United,Midfielder - Defensive Midfield,185,84,Right,519,56,39841,35,,,151,5,625,33.33,82.88,30.77,,50.0,31,6,15.0,23,33
+Danilo Oliveira,23,Brazil,Nottingham Forest,Midfielder - Defensive Midfield,177,,,187,17,12848,13,,,31,2,0,0.0,100.0,0.0,,33.33,0,0,28.0,6,10
+Dante Bonfim,41,Brazil,Nice,Defender - Centre Back,188,87,,555,21,48069,,539,209,128,9,109,0.0,88.08,0.0,,40.0,18,10,0.5,14,30
